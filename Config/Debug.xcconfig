@@ -1,0 +1,17 @@
+//
+//  Config.xcconfig
+//  
+//
+//  Created by tamnd on 9/21/20.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APP_NAME = mZonePoker (dev)
+MARKETING_VERSION = 0.2
+PRODUCT_BUNDLE_IDENTIFIER = com.ndtam.mZonePoker.Debug
+
+
+BACKEND_URL = http:\/\/api.intensifystudio.com/development
+CONSUMER_KEY = ck_a57e4fa2e14c12ae3f400371cf2951ec3dea5_dev
+CONSUMER_SECRET = cs_c847caa35ce1041e9c69d239141f13f63bb22b_dev
